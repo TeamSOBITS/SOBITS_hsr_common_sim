@@ -1,6 +1,7 @@
 # Common ROS package for HSR in SIGVerse
 
 HSRをSIGVerse上で動かすためのリポジトリです．
+    - 注意点：公開用のパッケージです．起動しない場合はフォルダ名を「hsr_ros」に変更してください．
 
 ## Prerequisites
 
